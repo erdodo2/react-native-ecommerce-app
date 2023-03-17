@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "email": "john@mail.com",
+    "password": "changeme",
+    "name": "Jhon",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=4194",
+    "creationAt": "2023-03-17T01:33:21.000Z",
+    "updatedAt": "2023-03-17T01:33:21.000Z"
+  },
+  {
+    "id": 2,
+    "email": "maria@mail.com",
+    "password": "12345",
+    "name": "Maria",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=5869",
+    "creationAt": "2023-03-17T01:33:21.000Z",
+    "updatedAt": "2023-03-17T01:33:21.000Z"
+  },
+  {
+    "id": 3,
+    "email": "admin@mail.com",
+    "password": "admin123",
+    "name": "Admin",
+    "role": "admin",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=9741",
+    "creationAt": "2023-03-17T01:33:21.000Z",
+    "updatedAt": "2023-03-17T01:33:21.000Z"
+  },
+  {
+    "id": 4,
+    "email": "pablo@gmail.com",
+    "password": "1234",
+    "name": "Pablo",
+    "role": "customer",
+    "avatar": "https://www.chevrolet.com.mx/content/dam/chevrolet/na/mx/es/index/crossovers-suvs/2023-suburban/mov/01-images/colorizer/jellies/blanco-platino.jpg?imwidth=960",
+    "creationAt": "2023-03-17T02:10:59.000Z",
+    "updatedAt": "2023-03-17T02:10:59.000Z"
+  },
+  {
+    "id": 5,
+    "email": "wesley.ryan@gmail.com",
+    "password": "d7rxet9zz2xnhf",
+    "name": "Buck",
+    "role": "customer",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tumski/128.jpg",
+    "creationAt": "2023-03-17T03:37:54.000Z",
+    "updatedAt": "2023-03-17T03:37:55.000Z"
+  },
+  {
+    "id": 6,
+    "email": "lala@yandex.ruxxxx",
+    "password": "lala",
+    "name": "lalalalalxaxs",
+    "role": "customer",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlKhGUBpcOa9C_-cEq_4oTysMOdAeNu8l5gygGGLZo&s",
+    "creationAt": "2023-03-17T06:03:04.000Z",
+    "updatedAt": "2023-03-17T06:03:34.000Z"
+  }
+]
